@@ -1,6 +1,7 @@
 # PhaserBees
-Simple customizable bee swarms.
-
+Simple customizable bee swarms.  
+Demo: machineman1357.github.io  
+  
 - Clearly marked areas in code that are extra so that you can strip the project down to the bare bees.
 
 Bee class options:  
