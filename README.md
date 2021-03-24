@@ -22,3 +22,5 @@ Bee class options:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scene: game.scene.scenes[0] // The scene to add the bee images and container to  
 }  
+  
+![](https://imgur.com/9AdbZ5L)
