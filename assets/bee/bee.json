@@ -1,0 +1,61 @@
+{
+	"textures": [
+		{
+			"image": "bee.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 103,
+				"h": 176
+			},
+			"scale": 0.25,
+			"frames": [
+				{
+					"filename": "body.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 115.5
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 115.5
+					},
+					"frame": {
+						"x": 2.5,
+						"y": 2.5,
+						"w": 98,
+						"h": 115.5
+					}
+				},
+				{
+					"filename": "wing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66.5,
+						"h": 50.5
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66.5,
+						"h": 50.5
+					},
+					"frame": {
+						"x": 2.5,
+						"y": 123,
+						"w": 66.5,
+						"h": 50.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.6"
+	}
+}
