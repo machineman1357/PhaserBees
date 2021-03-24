@@ -1,4 +1,7 @@
 # PhaserBees
+
+![vid](https://user-images.githubusercontent.com/16969890/112392063-150c5b80-8cb6-11eb-9c03-9e58bb268c5d.gif)
+
 Simple customizable bee swarms.  
 Demo: https://machineman1357.github.io  
   
@@ -21,6 +24,4 @@ Bee class options:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;targetAngleLerp: 0.05,          // the rate at which the bee rotates towards its target position  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scene: game.scene.scenes[0] // The scene to add the bee images and container to  
-}  
-  
-[Imgur](https://imgur.com/9AdbZ5L)
+}
