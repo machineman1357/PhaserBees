@@ -3,7 +3,7 @@
 ![vid](https://user-images.githubusercontent.com/16969890/112392063-150c5b80-8cb6-11eb-9c03-9e58bb268c5d.gif)
 
 Simple customizable bee swarms.  
-Demo: https://machineman1357.github.io  
+Demo: https://machineman1357.github.io/PhaserBees/  
   
 - Clearly marked areas in code that are extra so that you can strip the project down to the bare bees.
 
